@@ -1,9 +1,9 @@
-# Komi-San
+# Elena
 Telegram Group Management Bot based on Pyrogram
 
 <b> More updates coming soon </b>
 
-[Support Group](https://t.me/Komisan_Support)
+[Support Group](https://t.me/elena_support_official)
 
 <b> Open a Pull request
 if you wana contribute </b>
